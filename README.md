@@ -1,18 +1,27 @@
-# Welcome to Yung Han Jeong's Github Page. Please check out some of my projects!
+# Welcome to Yung Han Jeong's Git/PortFolio
 
-## Projects
+## Code Projects
+<br>
 
-[Shear-Moment and Deflection Analysis, 2017, 2020](https://github.com/yunghanjeong/Shear_Moment_Deflection)
+[**Shear-Moment and Deflection Analysis: 2017, 2020**](https://github.com/yunghanjeong/Shear_Moment_Deflection)<br>
 Refactored code used as a Mechanical Engieer at PowerFleet, Inc for mathmatical analysis of prototype viability. 
 
-[Movie Industry Exploratory Data Analysis, 2020](https://github.com/yunghanjeong/091420NYCDS_P1_G2_Project)
+[**Movie Industry Exploratory Data Analysis: 2020**](https://github.com/yunghanjeong/091420NYCDS_P1_G2_Project)<br>
+EDA of Movie Industry Data for Flatiron School Data Science Immersive Program.
 
-## Academic Works
+## Non-code Projects
+
+[**TEDxTCNJ** Taking a Journey to Nowhere: 2015](https://www.youtube.com/watch?v=xqJhsUBmAPE&ab_channel=TEDxTalks)<br>
+Inspired by my first Hackathon project I discuss my directionless passion project of combining music and calculsus and the valuable lesson of combining passion and logic. 
+
+[**IEEE** Optimizing mandibulomaxillary plate fixation by computerized simulation: 2015](https://ieeexplore.ieee.org/document/7117096)<br>
+IEEE Publication as a part of my graduating thesis at TCNJ. Utilized computerized static analysis to optimize the prototype design of a jaw fixation device.
 
 ## Resume
+WIP
 
 ## Social Media and other links
-<a href="https://www.linkedin.com/in/yunghanjeong/">i<mg src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="100"/>
+<a href="https://www.linkedin.com/in/yunghanjeong/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" alt="yunghanjeong' linkedin" width="200"/>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/yhjphotos/?hl=en"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" alt="@yhjphotos" width = "52">
 
 
 <!--
