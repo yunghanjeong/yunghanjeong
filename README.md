@@ -2,6 +2,7 @@
 
 ## Coding Projects
 <br>
+
 [**Kings County Housing Price Prediction, 2020**](https://github.com/yunghanjeong/Kings_County_Housing_Price_Prediction)<br>
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area.
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
