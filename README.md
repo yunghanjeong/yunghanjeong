@@ -2,15 +2,17 @@
 
 ## Coding Projects
 <br>
+[**Kings County Housing Price Prediction, 2020**](https://github.com/yunghanjeong/Kings_County_Housing_Price_Prediction)<br>
+Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area.
+Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 [**Shear-Moment and Deflection Analysis: 2017, 2020**](https://github.com/yunghanjeong/Shear_Moment_Deflection)<br>
 Refactored code used as a Mechanical Engieer at PowerFleet, Inc for mathmatical analysis of prototype viability. 
-
-[**Kings County Housing Price Prediction, 2020**](https://github.com/yunghanjeong/Kings_County_Housing_Price_Prediction)<br>
-Linear regression modeling for housing price prediction in Kings County (Brooklny), NY USA. Data provided by and for latiron School Data Science Immersive Program.
+Libraries utilized: Numpy, Simpy, Matplotlib 
 
 [**Movie Industry Exploratory Data Analysis: 2020**](https://github.com/yunghanjeong/091420NYCDS_P1_G2_Project)<br>
 EDA of movie industry data for Flatiron School Data Science Immersive Program.
+Libraries utilized: Pandas, Numpy, Matplotlib
 
 ## Non-coding Projects
 
