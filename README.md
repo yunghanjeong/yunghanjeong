@@ -7,7 +7,7 @@
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area.
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
-[**Shear-Moment and Deflection Analysis: 2017, 2020**](https://github.com/yunghanjeong/Shear_Moment_Deflection)<br>
+[**Shear-Moment and Deflection Analysis: 2019, 2020**](https://github.com/yunghanjeong/Shear_Moment_Deflection)<br>
 Refactored code used as a Mechanical Engieer at PowerFleet, Inc for mathmatical analysis of prototype viability. 
 Libraries utilized: Numpy, Simpy, Matplotlib 
 
