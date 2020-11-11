@@ -1,7 +1,11 @@
 # Welcome to Yung Han Jeong's Github/PortFolio
 
-## Coding Projects
+## Projects
 <br>
+
+[**Hospital Readmission Prediction of Diabetic Patients, 2020**](https://github.com/yunghanjeong/diabetic_readmission_prediction)<br>
+Multiclass prediction model with decision tree and random forest model to determine readmission possibilities of diabetic patients based on Virginia Commonwealth University's study. Data collected from 130 hospitals between 1999-2008. 
+Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 [**Kings County Housing Price Prediction, 2020**](https://github.com/yunghanjeong/Kings_County_Housing_Price_Prediction)<br>
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area.
@@ -15,7 +19,7 @@ Libraries utilized: Numpy, Simpy, Matplotlib
 EDA of movie industry data for Flatiron School Data Science Immersive Program.
 Libraries utilized: Pandas, Numpy, Matplotlib
 
-## Non-coding Projects
+## Personal/Academic Works
 
 [**TEDxTCNJ** Taking a Journey to Nowhere: 2015](https://www.youtube.com/watch?v=xqJhsUBmAPE&ab_channel=TEDxTalks)<br>
 Inspired by my first Hackathon project I discuss my directionless passion project of combining music and calculsus and the valuable lesson of combining passion and logic. 
