@@ -4,19 +4,19 @@
 <br>
 
 [**Hospital Readmission Prediction of Diabetic Patients, 2020**](https://github.com/yunghanjeong/diabetic_readmission_prediction)<br>
-Multiclass prediction model with decision tree and random forest model to determine readmission possibilities of diabetic patients based on Virginia Commonwealth University's study. Data collected from 130 hospitals between 1999-2008. 
+Multiclass prediction model with decision tree and random forest model to determine readmission possibilities of diabetic patients based on Virginia Commonwealth University's study. Data collected from 130 hospitals between 1999-2008. <br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 [**Kings County Housing Price Prediction, 2020**](https://github.com/yunghanjeong/Kings_County_Housing_Price_Prediction)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area.
+Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 [**Shear-Moment and Deflection Analysis: 2019, 2020**](https://github.com/yunghanjeong/Shear_Moment_Deflection)<br>
-Refactored code used as a Mechanical Engieer at PowerFleet, Inc for mathmatical analysis of prototype viability. 
+Refactored code used as a Mechanical Engieer at PowerFleet, Inc for mathmatical analysis of prototype viability. <br>
 Libraries utilized: Numpy, Simpy, Matplotlib 
 
 [**Movie Industry Exploratory Data Analysis: 2020**](https://github.com/yunghanjeong/091420NYCDS_P1_G2_Project)<br>
-EDA of movie industry data for Flatiron School Data Science Immersive Program.
+EDA of movie industry data for Flatiron School Data Science Immersive Program.<br>
 Libraries utilized: Pandas, Numpy, Matplotlib
 
 ## Personal/Academic Works
@@ -25,7 +25,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib
 Inspired by my first Hackathon project I discuss my directionless passion project of combining music and calculsus and the valuable lesson of combining passion and logic. 
 
 [**Street Photography Color Analyzer**](https://github.com/yunghanjeong/street_photo_colors)<br>
-Utilized PRAW reddit API and ColorThief library to automatically query and analyze photos posted in r/streetphotography.
+Utilized PRAW reddit API and ColorThief library to automatically query and analyze photos posted in r/streetphotography. <br>
 Base project for a [Medium Article]().
 
 [**IEEE** Optimizing mandibulomaxillary plate fixation by computerized simulation: 2015](https://ieeexplore.ieee.org/document/7117096)<br>
