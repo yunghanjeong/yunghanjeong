@@ -1,4 +1,4 @@
-# Welcome to Yung Han Jeong's Github/PortFolio
+# Welcome to Yung Han Jeong's Github PortFolio
 
 ## Projects
 <br>
@@ -23,6 +23,10 @@ Libraries utilized: Pandas, Numpy, Matplotlib
 
 [**TEDxTCNJ** Taking a Journey to Nowhere: 2015](https://www.youtube.com/watch?v=xqJhsUBmAPE&ab_channel=TEDxTalks)<br>
 Inspired by my first Hackathon project I discuss my directionless passion project of combining music and calculsus and the valuable lesson of combining passion and logic. 
+
+[**Street Photography Color Analyzer**](https://github.com/yunghanjeong/street_photo_colors)<br>
+Utilized PRAW reddit API and ColorThief library to automatically query and analyze photos posted in r/streetphotography.
+Base project for a [Medium Article]().
 
 [**IEEE** Optimizing mandibulomaxillary plate fixation by computerized simulation: 2015](https://ieeexplore.ieee.org/document/7117096)<br>
 IEEE Publication as a part of my graduating thesis at TCNJ. Utilized computerized static analysis to optimize the prototype design of a jaw fixation device.
