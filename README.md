@@ -1,7 +1,13 @@
 # Welcome to Yung Han Jeong's Github PortFolio
 
 ## Projects
-<br>
+[**FitsnBits - Stock Market Prediction, 2020**](https://github.com/yunghanjeong/fitsnbits)<br>
+ARIMA based time-series prediction of stock prices built with ACF/PACF analysis, statsmodel library tools, and custom build gridsearch method. Preliminary 5 day prediction resultsed in >3% $RMSE per quotes. <br>
+Libraries Utilized: Statsmodel, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
+
+[**Pneumonia Chest X-ray Classification, 2020**](https://github.com/danvalen1/Pneumonia-ID)<br>
+Simple effeicient binary pneumonia classificaiton model built on pytorch sequential module and L2 regularization. The model perform with over 0.9 recall score and perfect classification in small holdout set. Based on pediatric chest x-ray from select Chinese hospitals with peer-reviewed classification. <br>
+Libraries Utilized: Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
 [**Hospital Readmission Prediction of Diabetic Patients, 2020**](https://github.com/yunghanjeong/diabetic_readmission_prediction)<br>
 Multiclass prediction model with decision tree and random forest model to determine readmission possibilities of diabetic patients based on Virginia Commonwealth University's study. Data collected from 130 hospitals between 1999-2008. <br>
