@@ -5,7 +5,7 @@
 ARIMA based time-series prediction of stock prices built with ACF/PACF analysis, statsmodel library tools, and custom build gridsearch method. Preliminary 5 day prediction resultsed in >3% $RMSE per quotes. <br>
 Libraries Utilized: Statsmodel, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
-[**Pneumonia Chest X-ray Classification, 2020**](https://github.com/danvalen1/Pneumonia-ID)<br>
+[**Pneumonia Chest X-ray Classification, 2020**](https://github.com/yunghanjeong/Pneumonia-ID)<br>
 Simple effeicient binary pneumonia classificaiton model built on pytorch sequential module and L2 regularization. The model perform with over 0.9 recall score and perfect classification in small holdout set. Based on pediatric chest x-ray from select Chinese hospitals with peer-reviewed classification. <br>
 Libraries Utilized: Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
