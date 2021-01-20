@@ -2,15 +2,15 @@
 
 ## Projects
 [**FitsnBits - Stock Market Prediction, 2020**](https://github.com/yunghanjeong/fitsnbits)<br>
-ARIMA based time-series prediction of stock prices built with ACF/PACF analysis, statsmodel library tools, and custom build gridsearch method. Preliminary 5 day prediction resultsed in >3% $RMSE per quotes. <br>
+ARIMA based time-series prediction of stock prices built with ACF/PACF analysis, statsmodel library tools, and custom build gridsearch method. Preliminary 5 day prediction resulted in >3% $RMSE per quotes. <br>
 Libraries Utilized: Statsmodel, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
 [**Pneumonia Chest X-ray Classification, 2020**](https://github.com/yunghanjeong/Pneumonia-ID)<br>
-Simple effeicient binary pneumonia classificaiton model built on pytorch sequential module and L2 regularization. The model perform with over 0.9 recall score and perfect classification in small holdout set. Based on pediatric chest x-ray from select Chinese hospitals with peer-reviewed classification. <br>
+Simple effeicient binary pneumonia classificaiton model built on pytorch sequential module and L2 regularization. The model performed with over 0.9 recall score and perfect classification in small holdout set. Based on pediatric chest x-ray from select Chinese hospitals with peer-reviewed classification. <br>
 Libraries Utilized: Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
 [**Hospital Readmission Prediction of Diabetic Patients, 2020**](https://github.com/yunghanjeong/diabetic_readmission_prediction)<br>
-Multiclass prediction model with decision tree and random forest model to determine readmission possibilities of diabetic patients based on Virginia Commonwealth University's study. Data collected from 130 hospitals between 1999-2008. <br>
+Multiclass prediction model with decision tree and random forest models to determine readmission possibilities of diabetic patients based on Virginia Commonwealth University's study. Data collected from 130 hospitals between 1999-2008. <br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 [**Kings County Housing Price Prediction, 2020**](https://github.com/yunghanjeong/Kings_County_Housing_Price_Prediction)<br>
@@ -18,7 +18,7 @@ Linear regression modeling for housing price prediction in King County, WA, USA,
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 [**Shear-Moment and Deflection Analysis: 2019, 2020**](https://github.com/yunghanjeong/Shear_Moment_Deflection)<br>
-Refactored code used as a Mechanical Engieer at PowerFleet, Inc for mathmatical analysis of prototype viability. <br>
+Refactored code used as a Mechanical Engieer at PowerFleet, Inc for mathematical analysis of prototype viability. <br>
 Libraries utilized: Numpy, Simpy, Matplotlib 
 
 [**Movie Industry Exploratory Data Analysis: 2020**](https://github.com/yunghanjeong/091420NYCDS_P1_G2_Project)<br>
