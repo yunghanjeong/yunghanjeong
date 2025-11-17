@@ -39,7 +39,7 @@ IEEE Publication as a part of my graduating thesis at TCNJ. Utilized computerize
 
 
 ## Social Media and other links
-<a href="https://www.linkedin.com/in/yunghanjeong/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" alt="yunghanjeong linkedin" width="200"/>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/yhjphotos/?hl=en"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" alt="@yhjphotos" width = "52">&nbsp;&nbsp;&nbsp;<a href ="https://yungh-jeong.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="52"/>
+<a href="https://www.linkedin.com/in/yunghanjeong/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" alt="yunghanjeong linkedin" width="200"/>&nbsp;&nbsp;&nbsp;<a href ="https://yungh-jeong.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="52"/>
 
 
 <!--
