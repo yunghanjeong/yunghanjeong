@@ -5,7 +5,7 @@
 Pokemon-GO! Inspired CTA Scanvenger Hunt App built for DePaul Universtiy DemonHacks 2026 event. Built and maintained database and ETL based on SQLite and python. <br>
 Libraries Utilized: SQLite SQL, python
 
-[**FitsnBits - Stock Market Prediction, 2020**](https://github.com/yunghanjeong/fitsnbits)<br>
+[**FitsnBits - Stock Market Prediction, 2021**](https://github.com/yunghanjeong/fitsnbits)<br>
 ARIMA based time-series prediction of stock prices built with ACF/PACF analysis, statsmodel library tools, and custom build gridsearch method. Preliminary 5 day prediction resulted in >3% $RMSE per quotes. <br>
 Libraries Utilized: Statsmodel, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
