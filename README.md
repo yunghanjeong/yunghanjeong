@@ -1,7 +1,7 @@
 # Welcome to Yung Han Jeong's Github PortFolio
 
 ## Projects
-[**Chica-Go! — CTA L Scavenger Hunt, DemonHacks 2026**](https://github.com/yunghanjeong/fitsnbits](https://github.com/yunghanjeong/CTA_Scavenger_Hunt)<br>
+[**Chica-Go! — CTA L Scavenger Hunt, DemonHacks 2026**](https://github.com/yunghanjeong/CTA_Scavenger_Hunt)<br>
 Pokemon-GO! Inspired CTA Scanvenger Hunt App built for DePaul Universtiy DemonHacks 2026 event. Built and maintained database and ETL based on SQLite and python. <br>
 Libraries Utilized: SQLite SQL, python
 
